@@ -30,3 +30,6 @@ Skip prefix for original filenames that appear in source maps. For example {pref
 
 `options.sourceMappingBaseURL`
 Add this to the beginning of sourceMappingURL.
+
+`options.newLine`
+An optional flat that specifies what will be put inbetween each file. '\n' by default
